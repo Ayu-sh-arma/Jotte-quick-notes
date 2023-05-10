@@ -1,1 +1,2 @@
-# Jotte- Sticky notes for the web
+# Jotte- Sticky notes
+## lightweight web app for jotting down info
